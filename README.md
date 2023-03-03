@@ -1,1 +1,1 @@
-# JavaApplciationTemplate
+# JavaApplicationTemplate
